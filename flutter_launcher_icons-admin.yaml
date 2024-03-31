@@ -1,0 +1,10 @@
+flutter_icons:
+  android: true
+  ios: true
+  image_path: "assets/launcher_icons/admin_icon.png"
+  remove_alpha_ios: true
+  white: true
+
+
+
+  # flutter pub run flutter_launcher_icons:main -f flutter_launcher_icons-admin.yaml
