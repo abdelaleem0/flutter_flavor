@@ -7,7 +7,7 @@ void main() async {
 
   AppConfig configureApp = const AppConfig(
     environment: AppEnvironment.user,
-    appTitle: 'floor',
+    appTitle: 'user',
     child: MyApp(
       environment: AppEnvironment.user,
     ),

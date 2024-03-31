@@ -7,7 +7,7 @@ void main() async {
 
   AppConfig configureApp =  const AppConfig(
     environment: AppEnvironment.admin,
-    appTitle: 'sqlLite',
+    appTitle: 'admin',
     child: MyApp(
       environment: AppEnvironment.admin,
     ),
